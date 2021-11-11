@@ -40,5 +40,16 @@
     "webpack": "^5.17.0",
     "webpack-cli": "^4.4.0",
     "webpack-dev-server": "^3.11.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williammarinho93/ignitereactjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/williammarinho93/ignitereactjs/issues"
+  },
+  "homepage": "https://github.com/williammarinho93/ignitereactjs#readme",
+  "description": ""
 }
